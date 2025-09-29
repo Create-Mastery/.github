@@ -16,4 +16,8 @@ A place to meet create mod enthusiasts and full of guides aimed to make you a cr
 
 [![GITHUB ORG](https://img.shields.io/badge/-GITHUB-555555?style=for-the-badge&logo=github&logoColor=white&labelColor=181819)](https://github.com/SCSDC-co)
 
+## PARALLEX
+
+[![GITHUB ORG](https://img.shields.io/badge/-GITHUB-555555?style=for-the-badge&logo=github&logoColor=white&labelColor=181819)](https://github.com/parallex-studios)
+
 </div>
